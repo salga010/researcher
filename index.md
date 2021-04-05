@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="sergio-salgado.jpg" width="200" height="300">
 
 I am Assistant Professor of Finance at the [Wharton School](https://www.wharton.upenn.edu/), [University of Pennsylvania](https://www.upenn.edu/).
 
