@@ -8,16 +8,15 @@ layout: default
 
 I am Assistant Professor of Finance at the [Wharton School](https://www.wharton.upenn.edu/), [University of Pennsylvania](https://www.upenn.edu/).
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+I received my PhD from the [Department of Economics](https://cla.umn.edu/economics) at the [University of Minnesota](https://twin-cities.umn.edu/)
 
-## Research Interest
+## Working Papers
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+1. [Technical Change and Entrepreneurship](https://www.dropbox.com/s/qo6e47vfj0q57gy/SSalgado_ETC_2020.pdf?dl=0) (revise & resubmit, American Economic Review)
+Abstract. I document a significant decline in the share of entrepreneurs among US households over the last three decades. Most of this decline is accounted for by a drop in the share of entrepreneurs among college graduates. Using a standard entrepreneurial choice model with two skill groups—high- and low-skill individuals—I then argue that the decline is the outcome of two technological forces that have increased the returns to high-skill labor: the skill-biased technical change and the decrease in the price of capital. I find that these two forces account for three-quarters of the decline in the share of entrepreneurs.
 
-## Publications
-
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+
 3. S. Salgado: Something about Ryuuko
 
 ## Typography
