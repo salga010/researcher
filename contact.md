@@ -1,11 +1,9 @@
 ---
 layout: default
-is_contact: true
+is_contact: false
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [ssalgado [at] wharton.upenn.edu](mailto:ssalgado@upenn.edu)
 
 ---
 
