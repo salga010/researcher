@@ -35,9 +35,9 @@ With Mons Chan and Ming Xu\
 
 1. [The Great Micro Moderation](https://sergiosalgadoi.files.wordpress.com/2019/11/gmm-2017-web.pdf)\
    with Nicholas Bloom, Fatih Guvenen, Luigi Pistaferri, John Sabelhaus, and Jae Song
-
+   
 2. Firm Productivity and Labor Quality\
    with Mons Chan and Ming Xu
    
-3. Taxing the Rich\ 
-   With V.V. Chari, Patrick Kehoe, and Elena Pastorino  
+3. Taxing the Rich\
+   with V.V. Chari, Patrick Kehoe, and Elena Pastorino  
