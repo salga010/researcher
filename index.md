@@ -12,6 +12,8 @@ I received my PhD from the [Department of Economics](https://cla.umn.edu/economi
 
 Email: [ssalgado [at] wharton.upenn.edu](mailto:ssalgado@upenn.edu)
 
+My [CV](cv_salgado.pdf) page
+
 My [Google Scholar](https://scholar.google.com/citations?user=WL38R6gAAAAJ&hl=es&oi=sra) page
 
 ## Working Papers
