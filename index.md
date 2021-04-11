@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sergio-salgado.jpg" width="200" height="300">
+<img class="profile-picture" align="left" src="sergio-salgado.jpg" width="200" height="300">
 
 I am Assistant Professor of Finance at the [Wharton School](https://www.wharton.upenn.edu/), [University of Pennsylvania](https://www.upenn.edu/).
 
@@ -15,6 +15,16 @@ Email: [ssalgado [at] wharton.upenn.edu](mailto:ssalgado@upenn.edu)
 My [CV](cv_salgado.pdf)
 
 My [Google Scholar](https://scholar.google.com/citations?user=WL38R6gAAAAJ&hl=es&oi=sra) page
+
+&nbsp;
+
+&nbsp;
+
+
+
+
+&nbsp;
+
 
 ## Working Papers
 
