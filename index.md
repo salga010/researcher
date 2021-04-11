@@ -25,7 +25,7 @@ My [Google Scholar](https://scholar.google.com/citations?user=WL38R6gAAAAJ&hl=es
 
 &nbsp;
 
-
+---
 ## Working Papers
 
 1. [Technical Change and Entrepreneurship](https://www.dropbox.com/s/qo6e47vfj0q57gy/SSalgado_ETC_2020.pdf?dl=0) (July 2020, revise & resubmit, *American Economic Review*)\
